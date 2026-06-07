@@ -1,6 +1,6 @@
 # 🏠 California Housing Price Predictor
 
-🚀 Live Demo: https://your-app.streamlit.app
+🚀 Live Demo: https://california-house-price-predictorr.streamlit.app/
 
 📂 Dataset: California Housing Dataset
 
