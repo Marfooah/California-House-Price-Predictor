@@ -1,5 +1,9 @@
 # 🏠 California Housing Price Predictor
 
+## 📌 Overview
+
+This project is an interactive machine learning web application that predicts California housing prices using an **Artificial Neural Network (ANN)** built with **Scikit-learn's MLPRegressor** and deployed using **Streamlit**.
+
 🚀 Live Demo: https://california-house-price-predictorr.streamlit.app/
 
 📂 Dataset: California Housing Dataset
@@ -16,10 +20,6 @@
 
 <img width="2956" height="1008" alt="image" src="https://github.com/user-attachments/assets/a99ea094-3f68-466e-906d-7b6c9f550d3f" />
 
-
-## 📌 Overview
-
-This project is an interactive machine learning web application that predicts California housing prices using an **Artificial Neural Network (ANN)** built with **Scikit-learn's MLPRegressor** and deployed using **Streamlit**.
 
 The application allows users to:
 
