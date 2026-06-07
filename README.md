@@ -10,7 +10,8 @@
 
 ## 📸 Application Preview
 
-(Add 1–3 screenshots here)
+<img width="2956" height="1648" alt="image" src="https://github.com/user-attachments/assets/afc5af81-1708-4a63-9b7e-052cfc4948a5" />
+
 
 ## 📌 Overview
 
