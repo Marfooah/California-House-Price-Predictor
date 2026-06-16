@@ -1,4 +1,4 @@
-# 🏠 California Housing Price Predictor
+# 🏠 HomeValue AI
 
 ## 📌 Overview
 
